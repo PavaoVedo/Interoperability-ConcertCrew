@@ -20,7 +20,7 @@
     <description>Personal live music gig and concert tracker</description>
 
     <properties>
-        <java.version>25</java.version>
+        <java.version>21</java.version>
         <springdoc.version>3.0.0</springdoc.version>
         <java-jwt.version>4.4.0</java-jwt.version>
     </properties>
